@@ -200,6 +200,10 @@ Four classification algorithms were trained and compared. The Decision Tree Clas
 
 The selected model was integrated into an interactive Streamlit dashboard, providing a simple interface for entering information and viewing predicted obesity categories.
 
+## Live Demo
+
+**Try the application here:** [Obesity Risk Prediction Dashboard]https://obesity-risk-prediction-cgpseavxsmujrvo346auto.streamlit.app/#obesity-risk-prediction-using-machine-learning
+
 ---
 
 **Project Title:** Obesity Risk Prediction Using Machine Learning  
